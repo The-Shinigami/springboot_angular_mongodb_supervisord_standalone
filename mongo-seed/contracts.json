@@ -1,0 +1,2888 @@
+[{
+  "_id": {
+    "$oid": "61d738b03de8f33ad9a87755"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$PEUjeEeg.Ftzk3k6gwDp4OQ5yN9jX15MFw7NCtH04yOlR0vxEXZj2",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "b",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "11111",
+  "date": "02/01/2022",
+  "prop": {
+    "_id": {
+      "$oid": "61d71047ef830d1f1f901e25"
+    },
+    "typePrp": "land",
+    "desc": "aa aaaaaaaa cjlsfncjl csfljjnvsfjlv sdjvnsjlvns sdljvnsdjl"
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "61d8392a3de8f33ad9a87759"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$PEUjeEeg.Ftzk3k6gwDp4OQ5yN9jX15MFw7NCtH04yOlR0vxEXZj2",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d8385cc8c7116cd3774d9e"
+    },
+    "nom": "c",
+    "prenom": "c",
+    "username": "c",
+    "password": "$2a$10$HLwfEPR.c/8mV8tjPiVHKOY52Z5/q2ZiU5Bwywv8wmcO4F/262tNO",
+    "CIN": "c",
+    "tel": "c",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "11111",
+  "date": "02/01/2022",
+  "prop": {
+    "_id": {
+      "$oid": "61d71047ef830d1f1f901e25"
+    },
+    "typePrp": "land",
+    "desc": "aa aaaaaaaa cjlsfncjl csfljjnvsfjlv sdjvnsjlvns sdljvnsdjl"
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "61d8479c3de8f33ad9a8775a"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d8385cc8c7116cd3774d9e"
+    },
+    "nom": "c",
+    "prenom": "c",
+    "username": "c",
+    "password": "$2a$10$HLwfEPR.c/8mV8tjPiVHKOY52Z5/q2ZiU5Bwywv8wmcO4F/262tNO",
+    "CIN": "c",
+    "tel": "c",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$PEUjeEeg.Ftzk3k6gwDp4OQ5yN9jX15MFw7NCtH04yOlR0vxEXZj2",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "11111",
+  "date": "02/01/2022",
+  "prop": {
+    "_id": {
+      "$oid": "61d84745ef830d1f1f901e26"
+    },
+    "typePrp": "land",
+    "desc": "bbbbbb bbbbbb mkqdmk mkfsssssssss mksfffffff"
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "61d848883de8f33ad9a8775b"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d8385cc8c7116cd3774d9e"
+    },
+    "nom": "c",
+    "prenom": "c",
+    "username": "c",
+    "password": "$2a$10$HLwfEPR.c/8mV8tjPiVHKOY52Z5/q2ZiU5Bwywv8wmcO4F/262tNO",
+    "CIN": "c",
+    "tel": "c",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$PEUjeEeg.Ftzk3k6gwDp4OQ5yN9jX15MFw7NCtH04yOlR0vxEXZj2",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "11111",
+  "date": "01/01/2022",
+  "prop": {
+    "_id": {
+      "$oid": "61d84862ef830d1f1f901e27"
+    },
+    "typePrp": "land",
+    "desc": "cccccccc cccccccccccc mkqdmk mkfsssssssss mksfffffff"
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "61dab774d908dd3695210884"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d8385cc8c7116cd3774d9e"
+    },
+    "nom": "c",
+    "prenom": "c",
+    "username": "c",
+    "password": "$2a$10$HLwfEPR.c/8mV8tjPiVHKOY52Z5/q2ZiU5Bwywv8wmcO4F/262tNO",
+    "CIN": "c",
+    "tel": "c",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$PEUjeEeg.Ftzk3k6gwDp4OQ5yN9jX15MFw7NCtH04yOlR0vxEXZj2",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "11",
+  "date": "01/01/2022",
+  "prop": {
+    "_id": {
+      "$oid": "61d84862ef830d1f1f901e27"
+    },
+    "typePrp": "land",
+    "desc": "cccccccc cccccccccccc mkqdmk mkfsssssssss mksfffffff"
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "61db6251d908dd369521088a"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "b",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$PEUjeEeg.Ftzk3k6gwDp4OQ5yN9jX15MFw7NCtH04yOlR0vxEXZj2",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "2020",
+  "date": "15/05/2018",
+  "prop": {
+    "_id": {
+      "$oid": "61db62513fb9755d8ce1d4fe"
+    },
+    "typePrp": "land",
+    "desc": "mkadcmk, camkdcamkc mkc zkmc zmkczkmc  mkac,akmc cmac,mcl,mkc zmk czmc,zmkc,czm czc zmc,almc, czmc,zmlc,zlmc,zlmc,zmlc,",
+    "owner": {
+      "_id": {
+        "$oid": "61d71010c8c7116cd3774d9d"
+      },
+      "nom": "b",
+      "prenom": "b",
+      "username": "b",
+      "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+      "CIN": "b",
+      "tel": "b",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "61db63a6d908dd369521088b"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$PEUjeEeg.Ftzk3k6gwDp4OQ5yN9jX15MFw7NCtH04yOlR0vxEXZj2",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d8385cc8c7116cd3774d9e"
+    },
+    "nom": "c",
+    "prenom": "c",
+    "username": "c",
+    "password": "$2a$10$HLwfEPR.c/8mV8tjPiVHKOY52Z5/q2ZiU5Bwywv8wmcO4F/262tNO",
+    "CIN": "c",
+    "tel": "c",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "1522",
+  "date": "02/02/2017",
+  "prop": {
+    "_id": {
+      "$oid": "61db63a63fb9755d8ce1d4ff"
+    },
+    "typePrp": "land",
+    "desc": "jbbbbbbbbbbbbbbbbbbbbbbbbbbb jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj lllllllllllllllllllllllllllllllllllllll",
+    "owner": {
+      "_id": {
+        "$oid": "61d70fdbc8c7116cd3774d9c"
+      },
+      "nom": "a",
+      "prenom": "a",
+      "username": "a",
+      "password": "$2a$10$PEUjeEeg.Ftzk3k6gwDp4OQ5yN9jX15MFw7NCtH04yOlR0vxEXZj2",
+      "CIN": "a",
+      "tel": "a",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "61dc4592f0710c693aa1979a"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "b",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$PEUjeEeg.Ftzk3k6gwDp4OQ5yN9jX15MFw7NCtH04yOlR0vxEXZj2",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "25",
+  "date": "10/01/2022",
+  "prop": {
+    "_id": {
+      "$oid": "61dc45928a364c7d3de026b8"
+    },
+    "typePrp": "In harum",
+    "desc": "Impedit",
+    "owner": {
+      "_id": {
+        "$oid": "61d71010c8c7116cd3774d9d"
+      },
+      "nom": "b",
+      "prenom": "b",
+      "username": "b",
+      "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+      "CIN": "b",
+      "tel": "b",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "61dc4914f0710c693aa1979d"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "b",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$PEUjeEeg.Ftzk3k6gwDp4OQ5yN9jX15MFw7NCtH04yOlR0vxEXZj2",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "276",
+  "date": "25/01/2022",
+  "prop": {
+    "_id": {
+      "$oid": "61dabaec3fb9755d8ce1d4fd"
+    },
+    "typePrp": "In harum",
+    "desc": "Impedit",
+    "owner": {
+      "_id": {
+        "$oid": "61d71010c8c7116cd3774d9d"
+      },
+      "nom": "b",
+      "prenom": "b",
+      "username": "b",
+      "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+      "CIN": "b",
+      "tel": "b",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "61ec3784ab96d174eccec636"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d8385cc8c7116cd3774d9e"
+    },
+    "nom": "c",
+    "prenom": "c",
+    "username": "c",
+    "password": "$2a$10$HLwfEPR.c/8mV8tjPiVHKOY52Z5/q2ZiU5Bwywv8wmcO4F/262tNO",
+    "CIN": "c",
+    "tel": "c",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$PEUjeEeg.Ftzk3k6gwDp4OQ5yN9jX15MFw7NCtH04yOlR0vxEXZj2",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "818181",
+  "date": "02/05/2015",
+  "prop": {
+    "_id": {
+      "$oid": "61db62513fb9755d8ce1d4fe"
+    },
+    "typePrp": "land",
+    "desc": "mkadcmk, camkdcamkc mkc zkmc zmkczkmc  mkac,akmc cmac,mcl,mkc zmk czmc,zmkc,czm czc zmc,almc, czmc,zmlc,zlmc,zlmc,zmlc,",
+    "owner": {
+      "_id": {
+        "$oid": "61d8385cc8c7116cd3774d9e"
+      },
+      "nom": "c",
+      "prenom": "c",
+      "username": "c",
+      "password": "$2a$10$HLwfEPR.c/8mV8tjPiVHKOY52Z5/q2ZiU5Bwywv8wmcO4F/262tNO",
+      "CIN": "c",
+      "tel": "c",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "61fd41dd55863736ff49b425"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "bb",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$sSb76n8JKnUDkjJum3C0QOeWSXDNZA.Dx8x62zG4sWQyGC8Hr9Ee.",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "20000",
+  "date": "2000-12-12",
+  "prop": {
+    "_id": {
+      "$oid": "61d84745ef830d1f1f901e26"
+    },
+    "typePrp": "land",
+    "desc": "bbbbbb bbbbbb mkqdmk mkfsssssssss mksfffffff",
+    "owner": {
+      "_id": {
+        "$oid": "61d71010c8c7116cd3774d9d"
+      },
+      "nom": "b",
+      "prenom": "b",
+      "username": "b",
+      "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+      "CIN": "bb",
+      "tel": "b",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "61ffdca48fa99b20578df017"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "bb",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$J7l.69cSCbYc3VjgWcQi9O/16gSS2uu3TB1iLW9WOQ3cplsRGYFDu",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "5888",
+  "date": "2022-02-18",
+  "prop": {
+    "_id": {
+      "$oid": "61d71047ef830d1f1f901e25"
+    },
+    "typePrp": "land",
+    "desc": "aa aaaaaaaa cjlsfncjl csfljjnvsfjlv sdjvnsjlvns sdljvnsdjl",
+    "owner": {
+      "_id": {
+        "$oid": "61d71010c8c7116cd3774d9d"
+      },
+      "nom": "b",
+      "prenom": "b",
+      "username": "b",
+      "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+      "CIN": "bb",
+      "tel": "b",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "6200c8609b188e018a52d896"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "bb",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$J7l.69cSCbYc3VjgWcQi9O/16gSS2uu3TB1iLW9WOQ3cplsRGYFDu",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "5555",
+  "date": "2022-02-17",
+  "prop": {
+    "_id": {
+      "$oid": "61dabaec3fb9755d8ce1d4fd"
+    },
+    "typePrp": "In harum",
+    "desc": "Impedit",
+    "owner": {
+      "_id": {
+        "$oid": "61d71010c8c7116cd3774d9d"
+      },
+      "nom": "b",
+      "prenom": "b",
+      "username": "b",
+      "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+      "CIN": "bb",
+      "tel": "b",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "6200ca419b188e018a52d897"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "bb",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d8385cc8c7116cd3774d9e"
+    },
+    "nom": "cm",
+    "prenom": "cmm",
+    "username": "cm",
+    "password": "$2a$10$ZXH0IBxFS1.njWsw.s3.WuSx.0L5rw4epwUugx7qud9LF.jAw022m",
+    "CIN": "cm",
+    "tel": "cm",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533154"
+        }
+      }
+    ]
+  },
+  "cost": "5000",
+  "date": "2022-02-26",
+  "prop": {
+    "_id": {
+      "$oid": "61dabaec3fb9755d8ce1d4fd"
+    },
+    "typePrp": "In harum",
+    "desc": "Impedit",
+    "owner": {
+      "_id": {
+        "$oid": "61d71010c8c7116cd3774d9d"
+      },
+      "nom": "b",
+      "prenom": "b",
+      "username": "b",
+      "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+      "CIN": "bb",
+      "tel": "b",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "6200ca989b188e018a52d898"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "bb",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d8385cc8c7116cd3774d9e"
+    },
+    "nom": "cm",
+    "prenom": "cmm",
+    "username": "cm",
+    "password": "$2a$10$ZXH0IBxFS1.njWsw.s3.WuSx.0L5rw4epwUugx7qud9LF.jAw022m",
+    "CIN": "cm",
+    "tel": "cm",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533154"
+        }
+      }
+    ]
+  },
+  "cost": "200",
+  "date": "2022-02-27",
+  "prop": {
+    "_id": {
+      "$oid": "61dabaec3fb9755d8ce1d4fd"
+    },
+    "typePrp": "In harum",
+    "desc": "Impedit",
+    "owner": {
+      "_id": {
+        "$oid": "61d71010c8c7116cd3774d9d"
+      },
+      "nom": "b",
+      "prenom": "b",
+      "username": "b",
+      "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+      "CIN": "bb",
+      "tel": "b",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "6200ec649b188e018a52d899"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "bb",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$J7l.69cSCbYc3VjgWcQi9O/16gSS2uu3TB1iLW9WOQ3cplsRGYFDu",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "121212",
+  "date": "2022-02-10",
+  "prop": {
+    "_id": {
+      "$oid": "61dabaec3fb9755d8ce1d4fd"
+    },
+    "typePrp": "In harum",
+    "desc": "Impedit",
+    "owner": {
+      "_id": {
+        "$oid": "61d71010c8c7116cd3774d9d"
+      },
+      "nom": "b",
+      "prenom": "b",
+      "username": "b",
+      "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+      "CIN": "bb",
+      "tel": "b",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "6200ec9d9b188e018a52d89a"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$J7l.69cSCbYc3VjgWcQi9O/16gSS2uu3TB1iLW9WOQ3cplsRGYFDu",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d8385cc8c7116cd3774d9e"
+    },
+    "nom": "cm",
+    "prenom": "cmm",
+    "username": "cm",
+    "password": "$2a$10$ZXH0IBxFS1.njWsw.s3.WuSx.0L5rw4epwUugx7qud9LF.jAw022m",
+    "CIN": "cm",
+    "tel": "cm",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533154"
+        }
+      }
+    ]
+  },
+  "cost": "25656",
+  "date": "2022-02-04",
+  "prop": {
+    "_id": {
+      "$oid": "61dabaec3fb9755d8ce1d4fd"
+    },
+    "typePrp": "In harum",
+    "desc": "Impedit",
+    "owner": {
+      "_id": {
+        "$oid": "61d70fdbc8c7116cd3774d9c"
+      },
+      "nom": "a",
+      "prenom": "a",
+      "username": "a",
+      "password": "$2a$10$J7l.69cSCbYc3VjgWcQi9O/16gSS2uu3TB1iLW9WOQ3cplsRGYFDu",
+      "CIN": "a",
+      "tel": "a",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "6200ece19b188e018a52d89b"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "bb",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$J7l.69cSCbYc3VjgWcQi9O/16gSS2uu3TB1iLW9WOQ3cplsRGYFDu",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "2636",
+  "date": "2022-02-04",
+  "prop": {
+    "_id": {
+      "$oid": "61dabaec3fb9755d8ce1d4fd"
+    },
+    "typePrp": "In harum",
+    "desc": "Impedit",
+    "owner": {
+      "_id": {
+        "$oid": "61d71010c8c7116cd3774d9d"
+      },
+      "nom": "b",
+      "prenom": "b",
+      "username": "b",
+      "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+      "CIN": "bb",
+      "tel": "b",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "6200ed269b188e018a52d89c"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d8385cc8c7116cd3774d9e"
+    },
+    "nom": "cm",
+    "prenom": "cmm",
+    "username": "cm",
+    "password": "$2a$10$ZXH0IBxFS1.njWsw.s3.WuSx.0L5rw4epwUugx7qud9LF.jAw022m",
+    "CIN": "cm",
+    "tel": "cm",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533154"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$J7l.69cSCbYc3VjgWcQi9O/16gSS2uu3TB1iLW9WOQ3cplsRGYFDu",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "686868",
+  "date": "2022-02-04",
+  "prop": {
+    "_id": {
+      "$oid": "61dabaec3fb9755d8ce1d4fd"
+    },
+    "typePrp": "In harum",
+    "desc": "Impedit",
+    "owner": {
+      "_id": {
+        "$oid": "61d8385cc8c7116cd3774d9e"
+      },
+      "nom": "cm",
+      "prenom": "cmm",
+      "username": "cm",
+      "password": "$2a$10$ZXH0IBxFS1.njWsw.s3.WuSx.0L5rw4epwUugx7qud9LF.jAw022m",
+      "CIN": "cm",
+      "tel": "cm",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533154"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "620170129b188e018a52d89d"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "bb",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$J7l.69cSCbYc3VjgWcQi9O/16gSS2uu3TB1iLW9WOQ3cplsRGYFDu",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "8080",
+  "date": "2022-02-22",
+  "prop": {
+    "_id": {
+      "$oid": "61dab8063fb9755d8ce1d4fa"
+    },
+    "typePrp": "Sint qui",
+    "desc": "Deleniti",
+    "owner": {
+      "_id": {
+        "$oid": "61d71010c8c7116cd3774d9d"
+      },
+      "nom": "b",
+      "prenom": "b",
+      "username": "b",
+      "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+      "CIN": "bb",
+      "tel": "b",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "620170ee9b188e018a52d89e"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d8385cc8c7116cd3774d9e"
+    },
+    "nom": "cm",
+    "prenom": "cmm",
+    "username": "cm",
+    "password": "$2a$10$ZXH0IBxFS1.njWsw.s3.WuSx.0L5rw4epwUugx7qud9LF.jAw022m",
+    "CIN": "cm",
+    "tel": "cm",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533154"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$J7l.69cSCbYc3VjgWcQi9O/16gSS2uu3TB1iLW9WOQ3cplsRGYFDu",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "50000",
+  "date": "2022-02-26",
+  "prop": {
+    "_id": {
+      "$oid": "61dab8063fb9755d8ce1d4fa"
+    },
+    "typePrp": "Sint qui",
+    "desc": "Deleniti",
+    "owner": {
+      "_id": {
+        "$oid": "61d8385cc8c7116cd3774d9e"
+      },
+      "nom": "cm",
+      "prenom": "cmm",
+      "username": "cm",
+      "password": "$2a$10$ZXH0IBxFS1.njWsw.s3.WuSx.0L5rw4epwUugx7qud9LF.jAw022m",
+      "CIN": "cm",
+      "tel": "cm",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533154"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "620171809b188e018a52d89f"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "bb",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$J7l.69cSCbYc3VjgWcQi9O/16gSS2uu3TB1iLW9WOQ3cplsRGYFDu",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "8000",
+  "date": "2022-02-13",
+  "prop": {
+    "_id": {
+      "$oid": "61dab8063fb9755d8ce1d4fa"
+    },
+    "typePrp": "Sint qui",
+    "desc": "Deleniti",
+    "owner": {
+      "_id": {
+        "$oid": "61d71010c8c7116cd3774d9d"
+      },
+      "nom": "b",
+      "prenom": "b",
+      "username": "b",
+      "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+      "CIN": "bb",
+      "tel": "b",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "6201722d9b188e018a52d8a0"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "bb",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$J7l.69cSCbYc3VjgWcQi9O/16gSS2uu3TB1iLW9WOQ3cplsRGYFDu",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "6060",
+  "date": "2022-02-05",
+  "prop": {
+    "_id": {
+      "$oid": "61dab8063fb9755d8ce1d4fa"
+    },
+    "typePrp": "Sint qui",
+    "desc": "Deleniti",
+    "owner": {
+      "_id": {
+        "$oid": "61d71010c8c7116cd3774d9d"
+      },
+      "nom": "b",
+      "prenom": "b",
+      "username": "b",
+      "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+      "CIN": "bb",
+      "tel": "b",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "620172839b188e018a52d8a1"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "bb",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$J7l.69cSCbYc3VjgWcQi9O/16gSS2uu3TB1iLW9WOQ3cplsRGYFDu",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "809090",
+  "date": "2022-02-01",
+  "prop": {
+    "_id": {
+      "$oid": "61dab8063fb9755d8ce1d4fa"
+    },
+    "typePrp": "Sint qui",
+    "desc": "Deleniti",
+    "owner": {
+      "_id": {
+        "$oid": "61d71010c8c7116cd3774d9d"
+      },
+      "nom": "b",
+      "prenom": "b",
+      "username": "b",
+      "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+      "CIN": "bb",
+      "tel": "b",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "620172bd9b188e018a52d8a2"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "bb",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$J7l.69cSCbYc3VjgWcQi9O/16gSS2uu3TB1iLW9WOQ3cplsRGYFDu",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "9000",
+  "date": "2022-02-28",
+  "prop": {
+    "_id": {
+      "$oid": "61dab8063fb9755d8ce1d4fa"
+    },
+    "typePrp": "Sint qui",
+    "desc": "Deleniti",
+    "owner": {
+      "_id": {
+        "$oid": "61d71010c8c7116cd3774d9d"
+      },
+      "nom": "b",
+      "prenom": "b",
+      "username": "b",
+      "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+      "CIN": "bb",
+      "tel": "b",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "6201730d9b188e018a52d8a3"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "bb",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$J7l.69cSCbYc3VjgWcQi9O/16gSS2uu3TB1iLW9WOQ3cplsRGYFDu",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "3000",
+  "date": "2022-02-02",
+  "prop": {
+    "_id": {
+      "$oid": "61dab8063fb9755d8ce1d4fa"
+    },
+    "typePrp": "Sint qui",
+    "desc": "Deleniti",
+    "owner": {
+      "_id": {
+        "$oid": "61d71010c8c7116cd3774d9d"
+      },
+      "nom": "b",
+      "prenom": "b",
+      "username": "b",
+      "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+      "CIN": "bb",
+      "tel": "b",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "6201737d9b188e018a52d8a4"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "bb",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$J7l.69cSCbYc3VjgWcQi9O/16gSS2uu3TB1iLW9WOQ3cplsRGYFDu",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "90666",
+  "date": "2022-02-19",
+  "prop": {
+    "_id": {
+      "$oid": "61dab8063fb9755d8ce1d4fa"
+    },
+    "typePrp": "Sint qui",
+    "desc": "Deleniti",
+    "owner": {
+      "_id": {
+        "$oid": "61d71010c8c7116cd3774d9d"
+      },
+      "nom": "b",
+      "prenom": "b",
+      "username": "b",
+      "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+      "CIN": "bb",
+      "tel": "b",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "620173be9b188e018a52d8a5"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "bb",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$J7l.69cSCbYc3VjgWcQi9O/16gSS2uu3TB1iLW9WOQ3cplsRGYFDu",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "9009",
+  "date": "2022-02-05",
+  "prop": {
+    "_id": {
+      "$oid": "61dab8063fb9755d8ce1d4fa"
+    },
+    "typePrp": "Sint qui",
+    "desc": "Deleniti",
+    "owner": {
+      "_id": {
+        "$oid": "61d71010c8c7116cd3774d9d"
+      },
+      "nom": "b",
+      "prenom": "b",
+      "username": "b",
+      "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+      "CIN": "bb",
+      "tel": "b",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "6201745c9b188e018a52d8a6"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "bb",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$J7l.69cSCbYc3VjgWcQi9O/16gSS2uu3TB1iLW9WOQ3cplsRGYFDu",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "90000",
+  "date": "2022-02-05",
+  "prop": {
+    "_id": {
+      "$oid": "61dab8063fb9755d8ce1d4fa"
+    },
+    "typePrp": "Sint qui",
+    "desc": "Deleniti",
+    "owner": {
+      "_id": {
+        "$oid": "61d71010c8c7116cd3774d9d"
+      },
+      "nom": "b",
+      "prenom": "b",
+      "username": "b",
+      "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+      "CIN": "bb",
+      "tel": "b",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "6201752b9b188e018a52d8a7"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "bb",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$J7l.69cSCbYc3VjgWcQi9O/16gSS2uu3TB1iLW9WOQ3cplsRGYFDu",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "9000",
+  "date": "2022-02-12",
+  "prop": {
+    "_id": {
+      "$oid": "61dab8063fb9755d8ce1d4fa"
+    },
+    "typePrp": "Sint qui",
+    "desc": "Deleniti",
+    "owner": {
+      "_id": {
+        "$oid": "61d71010c8c7116cd3774d9d"
+      },
+      "nom": "b",
+      "prenom": "b",
+      "username": "b",
+      "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+      "CIN": "bb",
+      "tel": "b",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "620175b89b188e018a52d8a8"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "bb",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$J7l.69cSCbYc3VjgWcQi9O/16gSS2uu3TB1iLW9WOQ3cplsRGYFDu",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "55555555",
+  "date": "2022-02-12",
+  "prop": {
+    "_id": {
+      "$oid": "61dab8063fb9755d8ce1d4fa"
+    },
+    "typePrp": "Sint qui",
+    "desc": "Deleniti",
+    "owner": {
+      "_id": {
+        "$oid": "61d71010c8c7116cd3774d9d"
+      },
+      "nom": "b",
+      "prenom": "b",
+      "username": "b",
+      "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+      "CIN": "bb",
+      "tel": "b",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "620176049b188e018a52d8a9"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "bb",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$J7l.69cSCbYc3VjgWcQi9O/16gSS2uu3TB1iLW9WOQ3cplsRGYFDu",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "9000",
+  "date": "2022-02-03",
+  "prop": {
+    "_id": {
+      "$oid": "61dab8063fb9755d8ce1d4fa"
+    },
+    "typePrp": "Sint qui",
+    "desc": "Deleniti",
+    "owner": {
+      "_id": {
+        "$oid": "61d71010c8c7116cd3774d9d"
+      },
+      "nom": "b",
+      "prenom": "b",
+      "username": "b",
+      "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+      "CIN": "bb",
+      "tel": "b",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "620176669b188e018a52d8aa"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "bb",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$J7l.69cSCbYc3VjgWcQi9O/16gSS2uu3TB1iLW9WOQ3cplsRGYFDu",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "70000",
+  "date": "2022-02-10",
+  "prop": {
+    "_id": {
+      "$oid": "61dab8063fb9755d8ce1d4fa"
+    },
+    "typePrp": "Sint qui",
+    "desc": "Deleniti",
+    "owner": {
+      "_id": {
+        "$oid": "61d71010c8c7116cd3774d9d"
+      },
+      "nom": "b",
+      "prenom": "b",
+      "username": "b",
+      "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+      "CIN": "bb",
+      "tel": "b",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "620182179b188e018a52d8ab"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "bb",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$J7l.69cSCbYc3VjgWcQi9O/16gSS2uu3TB1iLW9WOQ3cplsRGYFDu",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "8000",
+  "date": "2022-02-11",
+  "prop": {
+    "_id": {
+      "$oid": "61dab8063fb9755d8ce1d4fa"
+    },
+    "typePrp": "Sint qui",
+    "desc": "Deleniti",
+    "owner": {
+      "_id": {
+        "$oid": "61d71010c8c7116cd3774d9d"
+      },
+      "nom": "b",
+      "prenom": "b",
+      "username": "b",
+      "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+      "CIN": "bb",
+      "tel": "b",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "62022fdeac3b5014f06da96c"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d8385cc8c7116cd3774d9e"
+    },
+    "nom": "cm",
+    "prenom": "cmm",
+    "username": "cm",
+    "password": "$2a$10$ZXH0IBxFS1.njWsw.s3.WuSx.0L5rw4epwUugx7qud9LF.jAw022m",
+    "CIN": "cm",
+    "tel": "cm",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533154"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$J7l.69cSCbYc3VjgWcQi9O/16gSS2uu3TB1iLW9WOQ3cplsRGYFDu",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "800",
+  "date": "2022-02-12",
+  "prop": {
+    "_id": {
+      "$oid": "61d71047ef830d1f1f901e25"
+    },
+    "typePrp": "land",
+    "desc": "aa aaaaaaaa cjlsfncjl csfljjnvsfjlv sdjvnsjlvns sdljvnsdjl",
+    "owner": {
+      "_id": {
+        "$oid": "61d8385cc8c7116cd3774d9e"
+      },
+      "nom": "cm",
+      "prenom": "cmm",
+      "username": "cm",
+      "password": "$2a$10$ZXH0IBxFS1.njWsw.s3.WuSx.0L5rw4epwUugx7qud9LF.jAw022m",
+      "CIN": "cm",
+      "tel": "cm",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533154"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "6202300fac3b5014f06da96d"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d8385cc8c7116cd3774d9e"
+    },
+    "nom": "cm",
+    "prenom": "cmm",
+    "username": "cm",
+    "password": "$2a$10$ZXH0IBxFS1.njWsw.s3.WuSx.0L5rw4epwUugx7qud9LF.jAw022m",
+    "CIN": "cm",
+    "tel": "cm",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533154"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$J7l.69cSCbYc3VjgWcQi9O/16gSS2uu3TB1iLW9WOQ3cplsRGYFDu",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "800",
+  "date": "2022-03-03",
+  "prop": {
+    "_id": {
+      "$oid": "6202300e73571837520a5338"
+    },
+    "typePrp": "land",
+    "desc": "aa aaaaaaaa cjlsfncjl csfljjnvsfjlv sdjvnsjlvns sdljvnsdjl",
+    "owner": {
+      "_id": {
+        "$oid": "61d8385cc8c7116cd3774d9e"
+      },
+      "nom": "cm",
+      "prenom": "cmm",
+      "username": "cm",
+      "password": "$2a$10$ZXH0IBxFS1.njWsw.s3.WuSx.0L5rw4epwUugx7qud9LF.jAw022m",
+      "CIN": "cm",
+      "tel": "cm",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533154"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "62023075ac3b5014f06da96e"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d8385cc8c7116cd3774d9e"
+    },
+    "nom": "cm",
+    "prenom": "cmm",
+    "username": "cm",
+    "password": "$2a$10$ZXH0IBxFS1.njWsw.s3.WuSx.0L5rw4epwUugx7qud9LF.jAw022m",
+    "CIN": "cm",
+    "tel": "cm",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533154"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$J7l.69cSCbYc3VjgWcQi9O/16gSS2uu3TB1iLW9WOQ3cplsRGYFDu",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "5000",
+  "date": "2022-02-12",
+  "prop": {
+    "_id": {
+      "$oid": "61d71047ef830d1f1f901e25"
+    },
+    "typePrp": "land",
+    "desc": "aa aaaaaaaa cjlsfncjl csfljjnvsfjlv sdjvnsjlvns sdljvnsdjl",
+    "owner": {
+      "_id": {
+        "$oid": "61d8385cc8c7116cd3774d9e"
+      },
+      "nom": "cm",
+      "prenom": "cmm",
+      "username": "cm",
+      "password": "$2a$10$ZXH0IBxFS1.njWsw.s3.WuSx.0L5rw4epwUugx7qud9LF.jAw022m",
+      "CIN": "cm",
+      "tel": "cm",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533154"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "62023294ac3b5014f06da96f"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "bb",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$J7l.69cSCbYc3VjgWcQi9O/16gSS2uu3TB1iLW9WOQ3cplsRGYFDu",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "9000",
+  "date": "2022-02-12",
+  "prop": {
+    "_id": {
+      "$oid": "61d71047ef830d1f1f901e25"
+    },
+    "typePrp": "land",
+    "desc": "aa aaaaaaaa cjlsfncjl csfljjnvsfjlv sdjvnsjlvns sdljvnsdjl",
+    "owner": {
+      "_id": {
+        "$oid": "61d71010c8c7116cd3774d9d"
+      },
+      "nom": "b",
+      "prenom": "b",
+      "username": "b",
+      "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+      "CIN": "bb",
+      "tel": "b",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "620233f3ac3b5014f06da970"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "bb",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$J7l.69cSCbYc3VjgWcQi9O/16gSS2uu3TB1iLW9WOQ3cplsRGYFDu",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "941",
+  "date": "2022-02-04",
+  "prop": {
+    "_id": {
+      "$oid": "61d71047ef830d1f1f901e25"
+    },
+    "typePrp": "land",
+    "desc": "aa aaaaaaaa cjlsfncjl csfljjnvsfjlv sdjvnsjlvns sdljvnsdjl",
+    "owner": {
+      "_id": {
+        "$oid": "61d71010c8c7116cd3774d9d"
+      },
+      "nom": "b",
+      "prenom": "b",
+      "username": "b",
+      "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+      "CIN": "bb",
+      "tel": "b",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "62023cecac3b5014f06da971"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "bb",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$J7l.69cSCbYc3VjgWcQi9O/16gSS2uu3TB1iLW9WOQ3cplsRGYFDu",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "80000",
+  "date": "2022-02-04",
+  "prop": {
+    "_id": {
+      "$oid": "61d71047ef830d1f1f901e25"
+    },
+    "typePrp": "land",
+    "desc": "aa aaaaaaaa cjlsfncjl csfljjnvsfjlv sdjvnsjlvns sdljvnsdjl",
+    "owner": {
+      "_id": {
+        "$oid": "61d71010c8c7116cd3774d9d"
+      },
+      "nom": "b",
+      "prenom": "b",
+      "username": "b",
+      "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+      "CIN": "bb",
+      "tel": "b",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "62051febcc62ee2e727aee0d"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "bb",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$J7l.69cSCbYc3VjgWcQi9O/16gSS2uu3TB1iLW9WOQ3cplsRGYFDu",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "20000",
+  "date": "2022-02-26",
+  "prop": {
+    "_id": {
+      "$oid": "61d84745ef830d1f1f901e26"
+    },
+    "typePrp": "land",
+    "desc": "bbbbbb bbbbbb mkqdmk mkfsssssssss mksfffffff",
+    "owner": {
+      "_id": {
+        "$oid": "61d71010c8c7116cd3774d9d"
+      },
+      "nom": "b",
+      "prenom": "b",
+      "username": "b",
+      "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+      "CIN": "bb",
+      "tel": "b",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+},{
+  "_id": {
+    "$oid": "621bc751b06a137beda470f3"
+  },
+  "buyer": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "bb",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "seller": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$J7l.69cSCbYc3VjgWcQi9O/16gSS2uu3TB1iLW9WOQ3cplsRGYFDu",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "cost": "5000",
+  "date": "2022-02-12",
+  "prop": {
+    "_id": {
+      "$oid": "621bc750ca1605302c3adedd"
+    },
+    "typePrp": "aaaaaaaaaa",
+    "desc": "lllllllllllll",
+    "owner": {
+      "_id": {
+        "$oid": "61d71010c8c7116cd3774d9d"
+      },
+      "nom": "b",
+      "prenom": "b",
+      "username": "b",
+      "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+      "CIN": "bb",
+      "tel": "b",
+      "roles": [
+        {
+          "$ref": "roles",
+          "$id": {
+            "$oid": "61c636e9a18572b874533152"
+          }
+        }
+      ]
+    }
+  },
+  "_class": "org.lsi.entities.Contract"
+}]

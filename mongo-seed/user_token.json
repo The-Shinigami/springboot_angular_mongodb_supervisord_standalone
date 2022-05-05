@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "621bc6bbba4d1d0dc6f6b3d1"
+  },
+  "token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTY0NTk4NzUxNSwiZXhwIjoxNjQ2MDczOTE1fQ.-jHuYwW_MXn0vsO2nLtqf4aqDvpScjG9S9CJ3pUc9U5X5YeOKKuwxcafvuf0LZxAAcholyklWc5WZ3lQUNHneQ",
+  "user": {
+    "$ref": "users",
+    "$id": {
+      "$oid": "61d84aecc8c7116cd3774da0"
+    }
+  },
+  "_class": "com.example.demo.models.Token"
+}]

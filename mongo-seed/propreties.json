@@ -1,0 +1,241 @@
+[{
+  "_id": {
+    "$oid": "61d71047ef830d1f1f901e25"
+  },
+  "typePrp": "land",
+  "desc": "aa aaaaaaaa cjlsfncjl csfljjnvsfjlv sdjvnsjlvns sdljvnsdjl",
+  "owner": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "bb",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "_class": "org.lsi.entities.Proprety"
+},{
+  "_id": {
+    "$oid": "61d84745ef830d1f1f901e26"
+  },
+  "typePrp": "land",
+  "desc": "bbbbbb bbbbbb mkqdmk mkfsssssssss mksfffffff",
+  "owner": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "bb",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "_class": "org.lsi.entities.Proprety"
+},{
+  "_id": {
+    "$oid": "61dab8063fb9755d8ce1d4fa"
+  },
+  "typePrp": "Sint qui",
+  "desc": "Deleniti",
+  "owner": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "bb",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "_class": "org.lsi.entities.Proprety"
+},{
+  "_id": {
+    "$oid": "61dab9303fb9755d8ce1d4fb"
+  },
+  "typePrp": "Et cillu",
+  "desc": "Eum eos ",
+  "owner": {
+    "nom": "Labore p",
+    "prenom": "Est cons",
+    "username": "Ullamco ",
+    "password": "Ab volup",
+    "CIN": "Proident",
+    "tel": "Voluptat",
+    "roles": []
+  },
+  "_class": "org.lsi.entities.Proprety"
+},{
+  "_id": {
+    "$oid": "61daba363fb9755d8ce1d4fc"
+  },
+  "typePrp": "Libero d",
+  "desc": "Laborios",
+  "owner": {
+    "nom": "Consequa",
+    "prenom": "Maiores ",
+    "username": "Aliquam ",
+    "password": "Voluptas",
+    "CIN": "Ad nulla",
+    "tel": "Consecte",
+    "roles": []
+  },
+  "_class": "org.lsi.entities.Proprety"
+},{
+  "_id": {
+    "$oid": "61dabaec3fb9755d8ce1d4fd"
+  },
+  "typePrp": "In harum",
+  "desc": "Impedit",
+  "owner": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "bb",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "_class": "org.lsi.entities.Proprety"
+},{
+  "_id": {
+    "$oid": "61db62513fb9755d8ce1d4fe"
+  },
+  "typePrp": "land",
+  "desc": "mkadcmk, camkdcamkc mkc zkmc zmkczkmc  mkac,akmc cmac,mcl,mkc zmk czmc,zmkc,czm czc zmc,almc, czmc,zmlc,zlmc,zlmc,zmlc,",
+  "owner": {
+    "_id": {
+      "$oid": "61d8385cc8c7116cd3774d9e"
+    },
+    "nom": "c",
+    "prenom": "c",
+    "username": "c",
+    "password": "$2a$10$HLwfEPR.c/8mV8tjPiVHKOY52Z5/q2ZiU5Bwywv8wmcO4F/262tNO",
+    "CIN": "c",
+    "tel": "c",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "_class": "org.lsi.entities.Proprety"
+},{
+  "_id": {
+    "$oid": "61db63a63fb9755d8ce1d4ff"
+  },
+  "typePrp": "land",
+  "desc": "jbbbbbbbbbbbbbbbbbbbbbbbbbbb jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj lllllllllllllllllllllllllllllllllllllll",
+  "owner": {
+    "_id": {
+      "$oid": "61d70fdbc8c7116cd3774d9c"
+    },
+    "nom": "a",
+    "prenom": "a",
+    "username": "a",
+    "password": "$2a$10$PEUjeEeg.Ftzk3k6gwDp4OQ5yN9jX15MFw7NCtH04yOlR0vxEXZj2",
+    "CIN": "a",
+    "tel": "a",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "_class": "org.lsi.entities.Proprety"
+},{
+  "_id": {
+    "$oid": "6202300e73571837520a5338"
+  },
+  "typePrp": "land",
+  "desc": "aa aaaaaaaa cjlsfncjl csfljjnvsfjlv sdjvnsjlvns sdljvnsdjl",
+  "owner": {
+    "_id": {
+      "$oid": "61d8385cc8c7116cd3774d9e"
+    },
+    "nom": "cm",
+    "prenom": "cmm",
+    "username": "cm",
+    "password": "$2a$10$ZXH0IBxFS1.njWsw.s3.WuSx.0L5rw4epwUugx7qud9LF.jAw022m",
+    "CIN": "cm",
+    "tel": "cm",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533154"
+        }
+      }
+    ]
+  },
+  "_class": "org.lsi.entities.Proprety"
+},{
+  "_id": {
+    "$oid": "621bc750ca1605302c3adedd"
+  },
+  "typePrp": "aaaaaaaaaa",
+  "desc": "lllllllllllll",
+  "owner": {
+    "_id": {
+      "$oid": "61d71010c8c7116cd3774d9d"
+    },
+    "nom": "b",
+    "prenom": "b",
+    "username": "b",
+    "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+    "CIN": "bb",
+    "tel": "b",
+    "roles": [
+      {
+        "$ref": "roles",
+        "$id": {
+          "$oid": "61c636e9a18572b874533152"
+        }
+      }
+    ]
+  },
+  "_class": "org.lsi.entities.Proprety"
+}]

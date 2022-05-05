@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "61d70fdbc8c7116cd3774d9c"
+  },
+  "nom": "a",
+  "prenom": "a",
+  "username": "a",
+  "password": "$2a$10$J7l.69cSCbYc3VjgWcQi9O/16gSS2uu3TB1iLW9WOQ3cplsRGYFDu",
+  "CIN": "a",
+  "tel": "a",
+  "account_address": "a",
+  "roles": [
+    {
+      "$ref": "roles",
+      "$id": {
+        "$oid": "61c636e9a18572b874533152"
+      }
+    }
+  ],
+  "_class": "org.lsi.entities.Users"
+},{
+  "_id": {
+    "$oid": "61d71010c8c7116cd3774d9d"
+  },
+  "nom": "b",
+  "prenom": "b",
+  "username": "b",
+  "password": "$2a$10$V.Fw1IiSxCAyz6Pd7h4v.Or47yTLSzJaa.2l95DMR2g3hea84L/LW",
+  "CIN": "bb",
+  "tel": "b",
+  "account_address": "b",
+  "roles": [
+    {
+      "$ref": "roles",
+      "$id": {
+        "$oid": "61c636e9a18572b874533152"
+      }
+    }
+  ],
+  "_class": "org.lsi.entities.Users"
+},{
+  "_id": {
+    "$oid": "61d8385cc8c7116cd3774d9e"
+  },
+  "nom": "cm",
+  "prenom": "cmm",
+  "username": "cm",
+  "password": "$2a$10$ZXH0IBxFS1.njWsw.s3.WuSx.0L5rw4epwUugx7qud9LF.jAw022m",
+  "CIN": "cm",
+  "tel": "cm",
+  "account_address": "c",
+  "roles": [
+    {
+      "$ref": "roles",
+      "$id": {
+        "$oid": "61c636e9a18572b874533154"
+      }
+    }
+  ],
+  "_class": "org.lsi.entities.Users"
+},{
+  "_id": {
+    "$oid": "61d84aecc8c7116cd3774da0"
+  },
+  "nom": "admin",
+  "prenom": "admin",
+  "username": "admin",
+  "password": "$2a$10$glpscxwEwrBSFCd22Io/ve4LMNgaF8hI/kHqRP/frSu62qcF8qpaa",
+  "CIN": "admin",
+  "tel": "admin",
+  "account_address": "0x02B380DEc3925017A07E58abfdC4703b973AE3BF",
+  "roles": [
+    {
+      "$ref": "roles",
+      "$id": {
+        "$oid": "61c636e9a18572b874533154"
+      }
+    }
+  ],
+  "_class": "org.lsi.entities.Users"
+}]
